@@ -1,0 +1,2 @@
+# scala_example
+create_binary_tree_using_scala
